@@ -15,5 +15,14 @@
         "component_file_name": "simple_footer_component_1731550046",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm adding a blue background for you now.",
+        "message_id": "guest13112024231243",
+        "timestamp": "14112024021301",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
